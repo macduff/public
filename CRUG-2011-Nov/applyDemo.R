@@ -1,7 +1,7 @@
 #
 # 'apply' demo
 #
-set.seed(666)
+set.seed(777)
 M <- matrix(rnorm(12), 3, 4)
 
 M
